@@ -1,0 +1,29 @@
+{
+  "name": "authorized-keys",
+  "version": "0.1.0",
+  "description": "Platform agnostic path resolution to a user's authorized_keys file Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "authorized_keys",
+    "rsa",
+    "authentication",
+    "ssh",
+    "publickey",
+    "openssh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilmoore/node-authorized-keys.git"
+  },
+  "author": "Wil Moore III <wil.moore@wilmoore.com> (http://github.com/wilmoore)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "*"
+  },
+  "dependencies": {
+    "homedir": "~0.3.0"
+  }
+}
