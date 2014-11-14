@@ -1,6 +1,6 @@
 {
   "name": "authorized-keys",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Platform agnostic path resolution to a user's authorized_keys file Node.js.",
   "main": "index.js",
   "scripts": {
