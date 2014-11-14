@@ -1,6 +1,8 @@
-# authorized-keys [![Build Status](https://travis-ci.org/wilmoore/node-authorized-keys.png?branch=master)](https://travis-ci.org/wilmoore/node-authorized-keys) [![NPM version](https://badge.fury.io/js/authorized-keys.png)](http://badge.fury.io/js/authorized-keys)
+# authorized-keys
 
-  Platform agnostic path resolution to a user's authorized_keys file [Node.js][].
+[![Build Status](http://img.shields.io/travis/wilmoore/node-authorized-keys.svg)](https://travis-ci.org/wilmoore/node-authorized-keys) [![NPM version](http://img.shields.io/npm/v/node-authorized-keys.svg)](https://www.npmjs.org/package/node-authorized-keys) [![NPM downloads](http://img.shields.io/npm/dm/node-authorized-keys.svg)](https://www.npmjs.org/package/node-authorized-keys) [![LICENSE](http://img.shields.io/npm/l/node-authorized-keys.svg)](license)
+
+> Platform agnostic path resolution to a user's authorized_keys file [Node.js][].
 
 #### OSX
 
@@ -32,7 +34,7 @@
 
 ## License
 
-  MIT
+  [MIT](license)
 
 [Node.js]:  http://nodejs.org
 
