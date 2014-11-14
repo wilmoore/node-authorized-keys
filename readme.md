@@ -1,6 +1,6 @@
 # authorized-keys
 
-[![Build Status](http://img.shields.io/travis/wilmoore/node-authorized-keys.svg)](https://travis-ci.org/wilmoore/node-authorized-keys) [![NPM version](http://img.shields.io/npm/v/node-authorized-keys.svg)](https://www.npmjs.org/package/node-authorized-keys) [![NPM downloads](http://img.shields.io/npm/dm/node-authorized-keys.svg)](https://www.npmjs.org/package/node-authorized-keys) [![LICENSE](http://img.shields.io/npm/l/node-authorized-keys.svg)](license)
+[![Build Status](http://img.shields.io/travis/wilmoore/node-authorized-keys.svg)](https://travis-ci.org/wilmoore/node-authorized-keys) [![NPM version](http://img.shields.io/npm/v/authorized-keys.svg)](https://www.npmjs.org/package/authorized-keys) [![NPM downloads](http://img.shields.io/npm/dm/authorized-keys.svg)](https://www.npmjs.org/package/authorized-keys) [![LICENSE](http://img.shields.io/npm/l/authorized-keys.svg)](license)
 
 > Platform agnostic path resolution to a user's authorized_keys file [Node.js][].
 
